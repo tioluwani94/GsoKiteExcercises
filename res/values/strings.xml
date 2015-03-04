@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GsoKite Excercises</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_exercise1">Exercise1</string>
+    <string name="title_activity_exercise2">Exercise2</string>
+    <string name="title_activity_exercise3">Exercise3</string>
+    <string name="title_activity_exercise4">Exercise4</string>
+    <string name="go">Go</string>
+    <string name="textview">TextView</string>
+
+</resources>
